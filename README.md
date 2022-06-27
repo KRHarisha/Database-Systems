@@ -65,7 +65,7 @@ Transactions are groups of commands either read or modify your data which are sy
 - Column definition is of form <col-name><col-type>
 
 ### What Constraints Do We Want?
--> Certain columns have certain datatypes
+- Certain columns have certain datatypes
 
 ### Integrity Constraints
 - constraints that limit admissible of tables 
